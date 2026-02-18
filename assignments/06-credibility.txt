@@ -1,0 +1,15 @@
+Building credibility: your portfolio
+
+Getting hired for any scientific job – academic or otherwise – is partially a function of removing any doubt that you can execute on projects and see them through to completion. This is what “experience” often means and is why “seniority” is so critical: you have (hopefully) established your ability to see complex projects to completion, often by managing a diverse team of experts.
+
+But you can’t jump straight to “experienced and seasoned professional,” so instead you need to prove that you’re someone who can get the work done. One of the best ways of doing this is showing off a portfolio of your works: this can come in the form of technical writing projects / blog posts, computational notebooks, a design portfolio, peer-reviewed scientific publications or conference presentations, coding projects, and so on.
+
+These projects need to be easily discoverable and publicly accessible so that you can build a public profile that shows that you are an expert.
+
+Here, I want you to create an online profile and portfolio so that you can establish your reputation. To start, you need to make yourselves discoverable, which can come in many forms – social media, media coverage, profiles on your university’s websites, and so on. But you should also have a website that is under your control, that shows off your personality and expertise.
+
+Note that I do not expect you to do this as homework – there is nothing to “turn in” for this assignment. This is for your own professional good, so if you don’t do it, that’s up to you.
+
+However, I strongly encourage you to begin, and this explainer from Prof. Elaine Yao, Assistant Professor of Political Science at Washington University, is an excellent, approachable guide:
+
+https://ecyao.github.io/posts/2020/06/academic-website/

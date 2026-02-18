@@ -1,0 +1,33 @@
+Reminder that Nicole Mlynaryk will be speaking in our class next week.
+Here are the resources that I mentioned in class:
+* From Ali: Intro to scicomm from eLife posted on Bluesky: https://youtu.be/Az_AlHB0nFI* “Creating effective slides: Design, Construction, and Use in Science,” Jean-luc Doumont: https://www.youtube.com/watch?v=meBXuTIPJQk
+ 
+It’s a bit old, but the advice is sound. He summarizes his three “laws” as:
+* Adapt to your audience
+* Maximize the signal / noise ratio
+* Use effective redundancy
+
+* "The 3 Magic Ingredients of Amazing Presentations", Phil Waknell: https://www.youtube.com/watch?v=yoD8RMq2OkU
+This has that decision matrix that I showed is attached.
+Building your deckWe’re going to start building your slide deck, keeping in mind what we’ve learned so far.
+* Your first slide should say something unique about you though its visual language
+* Your title should use jargon only as needed* Ground your presentation in what inspires you* Having a pie-in-the-sky, sci-fi futuristic vision of where your research COULD go helps give your audience a sense of what science can make possible* It also helps motivate and excite YOU: if you’re not excited, why should anyone in the audience be interested enough to listen?* But science is very hard! The hurdles that you’ve overcome better connect you with your audiences* These ground the science in reality and humanize you and the process: not everything works all the time
+* Rather than “hiding” or being ashamed by these, turn these into funny, personal anecdotes about your experience
+* These highlight HOW MUCH you’ve learned and demonstrate your growth
+The Assignment1. Send me 2-3 examples of your inspirations. These could be videos from YouTube, existing company products, cool figures from scientific publications, science-fiction examples, or something even more creative. 
+For example, here's one of mine on curing paralysis:
+ 
+https://www.youtube.com/watch?v=cueLOdw70tU
+ 
+Based off these two Nature papers from Jocelyne Bloch & Grégoire Courtine's efforts:
+ 
+https://www.nature.com/articles/s41586-018-0649-2
+https://www.nature.com/articles/s41586-023-06094-5
+
+2. Send me a paragraph describing any hurdles you've run into in your project(s).
+ 
+These can include technical, theoretical, data collection, etc. This will be one slide in your thesis talk, to illustrate the progress you've made and the challenges you've overcome.
+ 
+
+
+::brad
